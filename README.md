@@ -2,7 +2,7 @@
 <h3 align="center">CSE Student | MERN Stack Developer | Data Analytics Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Web+Developer+%7C+MERN+Stack+%7C+Data+Analytics+%7C+Open+Source+Contributor;Lifelong+Learner+%7C+Curious+Mind+%7C+Passionate+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+MERN+Stack+%7C+Data+Analytics+%7C+Open+Source+Contributor;Lifelong+Learner+%7C+Curious+Mind+%7C+Passionate+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
